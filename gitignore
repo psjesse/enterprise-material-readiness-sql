@@ -1,0 +1,12 @@
+# Ignore SQL log files and temp files
+*.log
+*.tmp
+*.bak
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/project files
+.vscode/
+.idea/
